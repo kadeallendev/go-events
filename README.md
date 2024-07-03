@@ -1,2 +1,3 @@
-# go-events
-An event platform for creating an joining events
+# Go Events
+
+An event platform where users can create and join events (think Faceboook Events).
